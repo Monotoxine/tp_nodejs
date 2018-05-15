@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon main.js"
+    "start": "node express.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
